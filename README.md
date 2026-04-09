@@ -1,5 +1,5 @@
 # UDP Socket Client-Server
-This project is a simple UDP client-server program writtenin Python.
+This project is a simple UDP client-server program written in Python.
 
 ## Files
 - server.py -> starts the UDP server
